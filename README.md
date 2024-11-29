@@ -1,4 +1,4 @@
-**Mixed label assignment realize end-to-end object detection**
+![image](https://github.com/user-attachments/assets/5ff9a428-e243-4251-afa8-b51d10233184)**Mixed label assignment realize end-to-end object detection**
 ========
 
 ## Introduction
@@ -15,8 +15,7 @@ Mixed label assignment is an end-to-end training method, as shown below.
 
 ## Data
 
-Please download [VOC](http://host.robots.ox.ac. 383
-uk/pascal/VOC/voc2012/index.html ) dataset and organize them as following:
+Please download [VOC](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html) dataset and organize them as following:
 
 ```
 VOCDIR/
