@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5ff9a428-e243-4251-afa8-b51d10233184)**Mixed label assignment realize end-to-end object detection**
+**Mixed label assignment realize end-to-end object detection**
 ========
 
 ## Introduction
