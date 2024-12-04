@@ -55,8 +55,8 @@ python tools/train.py ----exp_file exps/example/yolox_voc/yolox_voc_s.py \
 
 # Model
 
-|  Model   | mAP  | mAP(w/o NMS) | Weight   |
-| :----: | :--: | :--: | :--: |
-|  YOLOX   | 51.0 | 18.6         |  |
-| MA-YOLOX | 52.6 | 52.7         | [ckpt(BaiDu)](https://pan.baidu.com/s/1hepNjAwV2eaH2K6ilgYOrw?pwd=defm) |
+|  Model   | mAP  | mAP(w/o NMS) | 
+| :----: | :--: | :--: | 
+|  YOLOX   | 51.0 | 18.6         | 
+| MA-YOLOX | 52.6 | 52.7         | 
 
